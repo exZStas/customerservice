@@ -2,8 +2,8 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [TODO](#TODO)
-* [Postman collections](#Postman collections)
+* [TODO](#todo)
+* [Postman collections](#postman-collections)
 
 ## General info
 This project is used for creating customers from different sources. 
@@ -25,6 +25,7 @@ Project is created with:
 
 ## TODO
 Add more test cases for different datasources. Just 1 datasource was tested so far.
+
 
 ## Postman collections
 
