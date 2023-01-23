@@ -25,7 +25,7 @@ Project is created with:
 ## TODO
 Add more test cases for different datasources. Just 1 datasource was tested so far.
 
-##Postman collections
+## Postman collections
 
 Create customer:
 POST localhost:8080/customer
