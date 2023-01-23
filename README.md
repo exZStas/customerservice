@@ -3,6 +3,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [TODO](#TODO)
+* [Postman collections](#Postman collections)
 
 ## General info
 This project is used for creating customers from different sources. 
