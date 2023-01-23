@@ -24,3 +24,28 @@ Project is created with:
 
 ## TODO
 Add more test cases for different datasources. Just 1 datasource was tested so far.
+
+##Postman collections
+
+Create customer:
+POST localhost:8080/customer
+Add header: `x-source:email`
+Body:
+```
+{
+    "firstName": "john",
+    "email": "dev@swe.com"
+}
+```
+
+Get customer by id:
+GET localhost:8080/customer/{customerId}
+
+Search customers:
+GET localhost:8080/customer
+Body:
+```
+{
+    "firstName": "john"
+}
+```
